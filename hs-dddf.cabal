@@ -12,12 +12,13 @@ version:            0.1.0.0
 -- bug-reports:
 
 -- The license under which the package is released.
--- license:
+license:            BSD-3-Clause 
 author:             Yutaka Nishimura
 maintainer:         ytk.nishimura@gmail.com
 
 -- A copyright notice.
--- copyright:
+copyright:          2022 Yutaka Nishimura
+
 -- category:
 extra-source-files: CHANGELOG.md
 
